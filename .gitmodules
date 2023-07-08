@@ -1,0 +1,3 @@
+[submodule "go-simple-blockchain-yt"]
+	path = go-simple-blockchain-yt
+	url = https://github.com/MilkiasTonji/go-simple-blockchain-yt.git
